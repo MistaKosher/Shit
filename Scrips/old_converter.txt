@@ -1,0 +1,2 @@
+convert_nach4frs_200804(@cFileName);
+convert_nach4frs_200804(@cFileName,ReplaceWrongSymbols,CutWrongStrings)
