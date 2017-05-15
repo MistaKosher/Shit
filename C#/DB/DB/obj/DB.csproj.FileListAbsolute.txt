@@ -1,0 +1,10 @@
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\bin\Debug\DB.dll
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\bin\Debug\DB.pdb
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\obj\Debug\DB.dll
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\obj\Debug\DB.pdb
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\bin\Release\DB.dll
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\bin\Release\DB.pdb
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\obj\Release\ResolveAssemblyReference.cache
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\obj\Release\DB.dll
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\DB\DB\obj\Release\DB.pdb

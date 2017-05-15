@@ -1,0 +1,12 @@
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Interop.ADODB.dll
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Interop.ORADCLib.dll
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\Interop.ORAOLEDBLib.dll
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Interop.ORADCLib.dll
+C:\Users\KOSHER\Documents\Visual Studio 2005\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Interop.ORAOLEDBLib.dll
