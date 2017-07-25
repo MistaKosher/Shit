@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Figures
+namespace smser228
 {
-    class AccessHandle
+    class Program
     {
-        public static void BaseConnect(string conn)
+        static void Main(string[] args)
         {
-            
         }
     }
 }
