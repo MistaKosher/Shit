@@ -1,0 +1,14 @@
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\bin\Debug\WPF_RSSListener.exe.config
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\bin\Debug\WPF_RSSListener.exe
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\bin\Debug\WPF_RSSListener.pdb
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\WPF_RSSListener.csprojResolveAssemblyReference.cache
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\MainWindow.g.cs
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\App.g.cs
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\WPF_RSSListener_MarkupCompile.cache
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\WPF_RSSListener_MarkupCompile.lref
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\MainWindow.baml
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\WPF_RSSListener.g.resources
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\WPF_RSSListener.Properties.Resources.resources
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\WPF_RSSListener.csproj.GenerateResource.Cache
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\WPF_RSSListener.exe
+c:\users\kosher\documents\visual studio 2017\Projects\WPF_RSSListener\WPF_RSSListener\obj\Debug\WPF_RSSListener.pdb
